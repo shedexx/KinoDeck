@@ -26,8 +26,8 @@
     },
     {
       "id": "tv-ren",
-      "title": "Рен ТВ HD",
-      "videoUrl": "http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
+      "title": "ЗВЕЗДА HD",
+      "videoUrl": "http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
       "isPremium": false
     },
     {
