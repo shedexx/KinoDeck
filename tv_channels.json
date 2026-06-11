@@ -8,8 +8,14 @@
     },
     {
       "id": "tv-russia1",
-      "title": "Россия 1 HD",
+      "title": "Россия 1",
       "videoUrl": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
+      "isPremium": false
+    },
+    {
+      "id": "tv-rentv",
+      "title": "РЕН ТВ",
+      "videoUrl": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
       "isPremium": false
     },
     {
@@ -20,37 +26,37 @@
     },
     {
       "id": "tv-tvc",
-      "title": "ТВ Центр HD",
+      "title": "ТВ Центр",
       "videoUrl": "http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8",
       "isPremium": false
     },
     {
-      "id": "tv-ren",
-      "title": "ЗВЕЗДА HD",
-      "videoUrl": "http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
+      "id": "tv-sts",
+      "title": "СТС",
+      "videoUrl": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
       "isPremium": false
     },
     {
       "id": "tv-zvezda",
-      "title": "Звезда HD",
+      "title": "Звезда",
       "videoUrl": "http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
       "isPremium": false
     },
     {
       "id": "tv-mir",
-      "title": "МИР HD",
+      "title": "Мир",
       "videoUrl": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
       "isPremium": false
     },
     {
       "id": "tv-cgtn",
-      "title": "CGTN Русский",
+      "title": "CGTN на Русском",
       "videoUrl": "http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
       "isPremium": false
     },
     {
       "id": "tv-match",
-      "title": "МАТЧ ТВ HD",
+      "title": "МАТЧ ТВ",
       "videoUrl": "http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8",
       "isPremium": false
     },
